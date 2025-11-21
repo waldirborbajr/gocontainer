@@ -58,15 +58,4 @@ Notes:
 
 Improvements welcome: update the `Dockerfile`, `devcontainer.json`, or this `README.md`. Open a PR with changes and rationale.
 
-seu-projeto/
-├── .devcontainer/
-│   ├── devcontainer.json
-│   ├── setup.sh
-│   ├── setup-lazyvim.sh
-│   └── setup-zsh.sh
-└── (seus arquivos do projeto)
-```
 
-```sh
-chmod +x .devcontainer/*.sh
-```
