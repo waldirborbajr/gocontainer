@@ -1,5 +1,4 @@
 ```
-```
 seu-projeto/
 ├── .devcontainer/
 │   ├── devcontainer.json
@@ -9,10 +8,6 @@ seu-projeto/
 └── (seus arquivos do projeto)
 ```
 
-
-```
 ```sh
-```
 chmod +x .devcontainer/*.sh
-```
 ```
